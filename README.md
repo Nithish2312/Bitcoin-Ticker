@@ -1,4 +1,4 @@
-# bitcon_ticker
+# bitcoin_ticker
 
 A new Flutter application.
 
